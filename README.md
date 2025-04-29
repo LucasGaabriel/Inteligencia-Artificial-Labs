@@ -1,1 +1,1 @@
-# Inteligencia-Artificial-Labs
+# Inteligência Artificial Labs
